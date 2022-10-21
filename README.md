@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JellyChain1
 - 👀 I’m interested in Database Software
-- 🌱 I’m currently maintaining an opensourced blockchain called JellyChain
+- 🌱 I’m currently maintaining an open sourced blockchain called JellyChain
 - 💞️ I’m looking to collaborate on Debugging, Security, and Fundraising
 - 📫 How to reach me JellyChain1@gmail.com (802)765-0122
 
