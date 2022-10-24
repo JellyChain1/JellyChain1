@@ -1,0 +1,19 @@
+{
+  "name": "jellychain",
+  "version": "0.17.5",
+  "description": "Node for jellychain - an experimental smart contract blockchain network",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Life Coach Ray",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "eco": "^1.1.0-rc-3",
+    "elliptic": "^6.5.4",
+    "fastify": "^3.29.2",
+    "index.js": "^0.0.3",
+    "level": "^8.0.0",
+    "ws": "^8.9.0"
+  }
+}
