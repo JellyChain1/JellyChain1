@@ -37,8 +37,8 @@ will follow the same process.
 
 ### 2.1 Other Formal Project Relationships
 
-ElseChain - Localhost
-ElseJellyChain - Public TestNet Version 0.18.1
+ElseChain - Localhost,
+ElseJellyChain - Public TestNet Version 0.18.1,
 JellyChain1 - Ghost Chain
 
 ## Section 3: JellyChain1 Governing Body
