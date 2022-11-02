@@ -1,0 +1,22 @@
+{
+  "name": "clustersexample",
+  "version": "1.0.0",
+  "description": "This module is a stand alone server that run in the background. Clusters module will fork the processes in your CPU into ranges, giving you multiple instances of your processes and allowing your appto run smoother.",
+  "main": "zero-downtime.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "clusters",
+    "server",
+    "api",
+    "process"
+  ],
+  "author": "Life Coach Ray",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "http": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}
