@@ -69,11 +69,11 @@ To properly interact with the node, you should use the JSON-RPC apis, especially
 **Note: This feature is still in its early stages, things might change when a stable release is ready.**
 
 ### Run JellyChain1 node publicly
+Located under Clusters/zerodowtime.js:
 
-Just do some port-forwarding, drop your public IP + the port you forwarded in and you are set!
+This module runs in the background.
 
-If you don't know how to forward port, just search it up online, each router model should have its own way to do port-forwarding.
-
+All you have to do is run/start the zero-downtime.js source code and point your RPC Client/Server and the blockchain server to anyone of the worker ports you will see in your terminal and enjoy. Don't forget to get your keypair first.
 
 ## Smart contracts?
 
